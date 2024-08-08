@@ -1,2 +1,4 @@
 # Rating-Product-Sorting-Reviewsin-Amazon
- Sorted of products on amazon
+-Data preprocessing phase was applied to the data of the Amazon company with the Pandas library.
+-Useful comments and rating were taken into account during the project.
+-Products were sorted by wilson lower bound.
